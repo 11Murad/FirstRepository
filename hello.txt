@@ -1,2 +1,2 @@
 Merhaba, Java dünyasına hoş geldin!
-Bu metin, Java ile dosya okuma ve yazma işlemleri için örnek olarak kullanılabilir.
+Bu metin, Java ile dosya okuma ve yazma işlemleri için örnek olarak kullanılabilir....
